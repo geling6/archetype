@@ -14,10 +14,6 @@
     <version>1.5.3.RELEASE</version>
   </parent>
 
-  <properties>
-    <tomcat.version>7.0.52</tomcat.version>
-  </properties>
-
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
