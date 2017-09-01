@@ -29,6 +29,11 @@
         <artifactId>spring-boot-devtools</artifactId>
         <optional>true</optional>
     </dependency>
+    <dependency>
+	    <groupId>com.baidu.disconf</groupId>
+	    <artifactId>disconf-client</artifactId>
+	    <version>2.6.31</version>
+	</dependency>
   </dependencies>
   <build>
     <finalName>archetype</finalName>
